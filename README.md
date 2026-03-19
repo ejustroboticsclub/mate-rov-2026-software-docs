@@ -33,7 +33,7 @@ We decided to develop each subtask in a repository mainly as a library. Here are
 
 - Measure iceberg depth -> (TODO)
 - 3d Model -> (TODO)
-- Threat Level determination through Information Sheet -> (TODO)
+- Threat Level determination through Information Sheet -> [mate-rov-2026-information-sheet-problem](https://github.com/ejustroboticsclub/mate-rov-2026-information-sheet-problem)
 - Crab Detection -> (TODO)
 - gui -> (TODO)
 
