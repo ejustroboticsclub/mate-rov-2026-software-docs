@@ -35,7 +35,7 @@ We decided to develop each subtask in a repository mainly as a library. Here are
 - Measure iceberg depth -> (TODO)
 - 3d Model -> (TODO)
 - Threat Level determination through Information Sheet -> [mate-rov-2026-information-sheet-problem](https://github.com/ejustroboticsclub/mate-rov-2026-information-sheet-problem)
-- Crab Detection -> (TODO)
+- Crab Detection -> [mate-rov-2026-crab-detection](https://github.com/ejustroboticsclub/mate-rov-2026-crab-detection)
 - gui -> (TODO)
 - eDNA utils -> (TODO, also might be just inside gui repo)
 
@@ -46,5 +46,5 @@ In general, each task will be handled by its respective subteam. However, genera
 - All projects require a pyproject.toml file and should be handled by uv as a dependency manager. this circumvents a lot of dependency-management headache during deployment.
 - Always Freeze your dependecies to a specific version. This is the default behaviour for "uv add <package>" command btw.
 - Document all important commands for the project. This is done favorably using .PHONY recipes in a Makefile or a justfile or even a txt file. Any document for how to run the project is highly encouraged especially if the project contains more than one script or entry point. for example the crab-detection repo might have a script for training, one for testing, and another for a ros node.
-
+- The implementations will mostly be implemented as libraries and the ros nodes will all be written in the same repository for th entire workspace. The one responsible for the workspace should use [pixi](https://pixi.prefix.dev/latest/tutorials/ros2/) to make sure the build is reproducible.
 
