@@ -22,6 +22,14 @@ https://drive.google.com/drive/folders/1ywYO08Prxha8mJFXOx24Lt_mlt3WUB-b?usp=sha
 
 Tip: the link can be chaotic and is not meant for you to navigate it looking for something. you should probably know exactly what you are looking for before opening it.
 
+## ROV software system docs
+
+This link has a description of the software system required for submission in the competition.
+
+https://docs.google.com/document/d/1D1Ii5b2isC0X4MzS_ErAI6QmNewqK_K6YoDMUKLM9jA/edit?tab=t.0
+
+TODO: this link requires review and updates from last year.
+
 ## Other Important links:
 
 - [competition manual](https://20693798.fs1.hubspotusercontent-na1.net/hubfs/20693798/2026/Manuals/2026%20EXPLORER%20Manual_updated_12_17_Cover.pdf)
