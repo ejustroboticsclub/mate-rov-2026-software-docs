@@ -5,6 +5,7 @@ This repository is dedicated to document all different kinds of stuff in our wor
 ## Our Team:
 
 - [Omar Abdelgawad](https://github.com/omar-abdelgawad) -> supervisor
+- [Anas Badr](https://github.com/k3rnel-pan1c-a) -> head
 - [Ahmed Ismail](https://github.com/ahmed-Ismail-elbrolosy) -> lead
 - [Motaz Elsaman](https://github.com/motazsaman214)
 - [Marwan](https://github.com/MarwanULQ)
